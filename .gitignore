@@ -131,5 +131,5 @@ dmypy.json
 # Custom
 .DS_Store
 lawscraper/crawls/
-austlii.json
-austlii.txt
+*.json
+*.txt
