@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom
+.DS_Store
+lawscraper/crawls/
+austlii.json
+austlii.txt
